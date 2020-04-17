@@ -7,3 +7,6 @@
     height: auto;
     margin: auto;
 }
+#title,.sub-title{
+    text-align: center;
+}
