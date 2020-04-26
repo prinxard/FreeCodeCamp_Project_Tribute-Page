@@ -1,12 +1,24 @@
-#img-div{
-    text-align: center;
+body {
+    font-size: 1.2rem;
+    line-height: 1.5;
+    color: #333;
+    margin: 0;
 }
-#image{
+
+ul,
+.bottom {
+    max-width: 700px;
+    margin: 0 auto 50px auto;
+}
+
+#image {
     display: block;
     max-width: 100%;
     height: auto;
     margin: auto;
 }
-#title,.sub-title{
+
+#title, #img-caption,
+.sub-title, .tribute-title {
     text-align: center;
 }
